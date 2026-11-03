@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "TV Perú",
+    "categoria": "Nacional",
+    "imagen": "https://ejemplo.com/logos/tvperu.png",
+    "url": "https://www.tvperu.gob.pe/play"
+  },
+  {
+    "id": 2,
+    "nombre": "Latina",
+    "categoria": "Nacional",
+    "imagen": "https://ejemplo.com/logos/latina.png",
+    "url": "https://www.latina.pe/"
+  },
+  {
+    "id": 3,
+    "nombre": "América TV",
+    "categoria": "Nacional",
+    "imagen": "https://ejemplo.com/logos/america.png",
+    "url": "https://tvgo.americatv.com.pe/"
+  },
+  {
+    "id": 4,
+    "nombre": "ATV",
+    "categoria": "Nacional",
+    "imagen": "https://ejemplo.com/logos/atv.png",
+    "url": "https://www.atv.pe/envivo"
+  },
+  {
+    "id": 5,
+    "nombre": "Panamericana TV",
+    "categoria": "Nacional",
+    "imagen": "https://ejemplo.com/logos/panamericana.png",
+    "url": "https://panamericana.pe/tvenvivo"
+  },
+  {
+    "id": 6,
+    "nombre": "Willax TV",
+    "categoria": "Nacional",
+    "imagen": "https://ejemplo.com/logos/willax.png",
+    "url": "https://willax.tv/"
+  },
+  {
+    "id": 7,
+    "nombre": "TV Perú Noticias",
+    "categoria": "Noticias",
+    "imagen": "https://ejemplo.com/logos/tvperunoticias.png",
+    "url": "https://www.tvperu.gob.pe/noticias"
+  },
+  {
+    "id": 8,
+    "nombre": "Canal IPe",
+    "categoria": "Cultural",
+    "imagen": "https://ejemplo.com/logos/ipe.png",
+    "url": "https://www.canalipe.gob.pe/"
+  },
+  {
+    "id": 9,
+    "nombre": "Exitosa TV",
+    "categoria": "Noticias",
+    "imagen": "https://ejemplo.com/logos/exitosa.png",
+    "url": "https://exitosanoticias.pe/"
+  },
+  {
+    "id": 10,
+    "nombre": "Congreso TV",
+    "categoria": "Institucional",
+    "imagen": "https://ejemplo.com/logos/congreso.png",
+    "url": "https://comunicaciones.congreso.gob.pe/tv-congreso/"
+  }
+]
